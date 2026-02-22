@@ -1,0 +1,16 @@
+product_id,title,category,brand,price_inr,stock,status,attributes,description
+1,Tata Sampann Toor Dal 1kg,Pulses,Tata Sampann,162,120,In Stock,High protein; Unpolished; 1kg pack,Tata Sampann Toor Dal is unpolished and rich in protein. Ideal for daily Indian cooking like dal tadka and sambar.
+2,Aashirvaad Whole Wheat Atta 5kg,Flour,Aashirvaad,245,80,In Stock,100% whole wheat; 5kg family pack; Contains gluten,Stone-ground whole wheat atta suitable for making soft chapatis and rotis.
+3,Amul Gold Full Cream Milk 1L,Dairy,Amul,66,200,In Stock,Full cream milk; 6% fat; 1 litre packet; Contains lactose,"Fresh full cream milk suitable for tea, coffee, and daily consumption."
+4,Fortune Sunflower Oil 1L,Edible Oil,Fortune,145,150,In Stock,Refined oil; Heart friendly; 1 litre pouch,Light refined sunflower oil ideal for deep frying and daily cooking.
+5,India Gate Classic Basmati Rice 1kg,Rice,India Gate,110,95,In Stock,Long grain; Aromatic; 1kg pack,"Premium quality long grain basmati rice with rich aroma, perfect for biryani and pulao."
+6,Maggi 2-Minute Masala Noodles 70g,Instant Food,Nestle,14,300,In Stock,Instant noodles; Masala flavor; Contains gluten,"Quick cooking masala noodles ready in 2 minutes, loved by kids and adults."
+7,Britannia Good Day Butter Biscuits 200g,Biscuits,Britannia,35,180,In Stock,Butter cookies; Contains gluten; 200g pack,"Crunchy butter biscuits with rich flavor, ideal for tea-time snacks."
+8,Bru Instant Coffee 100g,Beverages,Bru,275,60,Low Stock,Instant coffee powder; Strong aroma; 100g jar,Strong and aromatic instant coffee powder for quick preparation.
+9,Colgate Strong Teeth Toothpaste 150g,Personal Care,Colgate,98,140,In Stock,Fluoride toothpaste; 150g tube; For strong teeth,Fluoride toothpaste that helps strengthen teeth and prevent cavities.
+10,Saffola Rolled Oats 1kg,Breakfast,Saffola,185,75,In Stock,High fiber; Healthy breakfast; Contains gluten,"Rolled oats rich in fiber, suitable for healthy breakfast recipes."
+11,Tata Salt Iodized 1kg,Salt & Sugar,Tata,28,250,In Stock,Iodized salt; 1kg pack,Pure iodized salt essential for daily cooking.
+12,Cadbury Dairy Milk Chocolate 50g,Chocolates,Cadbury,40,220,In Stock,Milk chocolate; Contains milk solids; 50g bar,Smooth and creamy milk chocolate bar loved by all age groups.
+13,Parle-G Glucose Biscuits 250g,Biscuits,Parle,30,210,In Stock,Glucose biscuits; Contains gluten; 250g pack,Popular glucose biscuits suitable for tea-time and kids snacks.
+14,Surf Excel Easy Wash Detergent 1kg,Household,Surf Excel,120,130,In Stock,Laundry detergent; Removes stains; 1kg pack,Detergent powder suitable for hand wash and removing tough stains.
+15,Harpic Power Plus Toilet Cleaner 500ml,Household,Harpic,95,90,In Stock,Disinfectant; Kills germs; 500ml bottle,Powerful toilet cleaner that removes stains and kills 99.9% germs.
