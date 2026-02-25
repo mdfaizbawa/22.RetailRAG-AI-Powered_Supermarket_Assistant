@@ -99,6 +99,6 @@ Cloud Deployment (Render / Railway / Streamlit Cloud)
 
 MOHAMED FAIZ
 
-AI & Data Science Developer
+GenAI & Data Science Developer
 
 Thank you.
