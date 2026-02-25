@@ -16,7 +16,7 @@ Streamlit Frontend
 
 Session-Based Chat Memory
 
-=========================================
+=============================================
 🚀 Project Overview
 =========================================
 
@@ -32,7 +32,7 @@ Show available dairy products.
 
 The system retrieves relevant product information from a vector database and generates accurate responses grounded in retrieved context.
 
-=========================================
+=============================================
 🧠 Tech Stack
 =========================================
 🔹 Backend
@@ -53,7 +53,7 @@ HuggingFace Inference API (Mistral-7B)
 
 Streamlit
 
-=========================================
+=============================================
 🔎 How It Works (RAG Pipeline)
 =========================================
 
@@ -77,7 +77,7 @@ LLM generates grounded response.
 
 The model is restricted to answer only from retrieved context, reducing hallucinations.
 
-=========================================
+=============================================
 🔮 Future Enhancements
 =========================================
 
@@ -93,7 +93,7 @@ Docker Deployment
 
 Cloud Deployment (Render / Railway / Streamlit Cloud)
 
-=========================================
+=============================================
 👨‍💻 Author
 =========================================
 
